@@ -1,0 +1,92 @@
+The past few days, I've been reading some studies about brain damage related to
+COVID-19. There've been a few papers that link changes in brain structure, or
+decreased cognition to even mild cases of COVID. This research, to put it
+bluntly, scares the ever-living shit out of me. 
+
+I've had my moments of hypochondria. Just last week, I took 4 COVID tests in
+a row, since I thought I had done them incorrectly (the instructions were in
+spanish). We all live in fear of COVID with some respects. Anxiety, paranoia
+around contracting the virus, and also the unknown long-term effects. I hadn't
+had worried too much about the latter until a couple weeks ago. I'd heard about
+the brain fog, but not its persisting. Then I came across a peer-reviewed paper
+on r/neuro that had compared ~400 subjects' MRI's from before and after being
+diagnosed. There was indisputable evidence of reduction in grey matter thickness
+and tissue contrast in the orbitofrontal cortex and parahippocampal gyrus,
+tissue damage in the olfactory cortex, and reduction in global brain size. So,
+COVID brain is real, but what does any of this mean?
+
+There are so many factors that make these results difficult to interpret.
+Selection bias, differences in age, and hugely, the short span of these
+longitudinal studies, to name just a few. In the UK study, there were only
+a mean 141 days separating the two scans, and the mechanics of the degenerative
+spread of neuroinflammatory events aren't fully understood. That said,
+a longitudinal study means a lot more to me than any of the previous
+un-peer-reviewed, stastically fallible papers that likely have skewed results
+due to COVID-positive subjects' hospitalization, intubation, or pre-existing
+brain vulerabilities. So, all of that said, I think it's worth it for me to
+break down the UK study's results and share my feelings.
+
+The most consistent feature of COVID that we're all acquainted with is loss of
+taste and smell. The brain cells in the  olfactory system is the most
+susceptible infection from COVID. Our brain reads the viral DNA and produces
+more of it, causing further inflammation. Supposedly, this can also cause
+neurological disfunction, but the lack of olfactory and gustatory stimulation
+itself can lead to loss of grey matter in the regions of the brain responsible.
+If you don't use it, you lose it. So it seems we don't know how directly tied
+inflammation is to neurodegeneration. 
+
+But Omar! Doesn't the infection spread?! What about the rest of my limbic
+system?! What about these apparent effects on global brain size? Well, 8/10 of
+the most significant results are functionally connected to the primary olfactory
+cortex, but there was diffusion of tissue damage overlapping with the anterior
+cingulate cortex, orbitofrontal cortex and insula, as well as in the ventral
+striatum, amygdala, hippocampus and parahippocampal gyrus, and the other two
+results showed reduction in grey matter in the left lateral orbitofrontal cortex
+and parahippocampal gyrus.For those significant results, the average differences
+in percentage change ranged from around 0.2% to about 2%, with the largest
+differences observed in the volume of the parahippocampal gyrus and entorhinal
+cortex. I didn't feel like re-making their plots from the supplmentary data, but
+it looks like the two line plots of this percentage change only diverge after
+around the age of 50 (which is the only part of the plot they provided). These
+results were also less apparent when removing the subjects that were
+hospitalized. Also, the percentage of total subjects that actually had a significant
+longitudinal percent difference wasn't too far above 50%: 56% for the regions
+connected to the temporal piriform cortex, 62% for the regions connected to the
+olfactory tubercle, 57% for the left parahippocampal gyrus and 60% for the left
+orbitofrontal cortex. Essentialy, unless you were hospitilized, or you're
+a senior, most COVID-positive people wouldn't have significant results in this
+study.
+
+Finally, the differences in global brain size aren't just related to the
+observed reductions in grey matter or cortical thickness, there were also
+detected differences in cerebrospinal fluid. The other most significant
+differences in volume were in the parahippocampal gyrus and caudal anterior
+cingulate cortex.
+
+If you are really worried about your parahippocampal gyrus, caudal anterior
+cingulate cortex, or orbifrontal cortex, here's a summary of their their
+functions. The parahippocampal gyrus are mainly involved in memory retrieval and
+encoding. The anterior cingulate cortex  is involved in certain higher-level
+functions, such as attention allocation, reward anticipation, decision-making,
+ethics and morality, impulse control, and the orbitofrontal cortex which is in
+the prefrontal cortex is involved in decision making.
+
+Ultimately, the papers admits that the two group showed no statistical
+difference until the cohort ran PCA specifically focused on cognition. That is to say, these
+results are mainly hypothesis-driven. I can't proport big-data-driven science,
+and its throwing machine learning against a wall until it sticks without
+significant understanding. I'm not a data scientist, and I'm not going to stress
+over hypothesis-driven results that don't yet hold up in a data-driven paradigm. 
+
+What I can't commented on, are people's personal accounts of brain fog. I'm
+lucky enough to have not experienced this (although forgoing my usually daily
+ganja in recent months has helped), and if you haven't either, I'd be grateful.
+If you read all this, you brain works just fine, so let's hold our horses and
+wait a couple more years for a follow-up study before we lose our respective
+shits over a couple of IQ points. 
+
+
+
+The UK study: https://www.nature.com/articles/s41586-022-04569-5 
+Previous, peer-reviewed papers: https://www.nature.com/articles/s41586-021-03710-0
+https://www.embopress.org/doi/pdfdirect/10.15252/embr.202154342
